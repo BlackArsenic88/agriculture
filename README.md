@@ -1,6 +1,6 @@
 Project Hive 🐝
 
-# Agricultural Data Science & Analystics 
+# Agricultural Data Science & Analysis 
 This repository hosts AI/ML algorithms that use data from the **National Agricultural Statistics Service (NASS)**, the primary data science and statistics body for the U.S. Department of Agriculture (USDA). The first analysis focuses on **honey production** in the United States, leveraging historical datasets to identify production trends, regional variations, and predictive insights.
 
 ![Honeybees](honey_production.webp)
@@ -62,8 +62,8 @@ This project is licensed under a dual license. You are free to use, modify, and 
 
 # Acknowledgements🙏
 - USDA National Agricultural Statistics Service (NASS) for providing the primary data.
-- Open-source community for libraries and tools that make reproducible research possible.
 - Researchers and policymakers who continue to advance agricultural insights and food security.
+- The open-source community for libraries and tools that make reproducible research possible.
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
 
